@@ -10,6 +10,7 @@ wp-content/advanced-cache.php
 wp-content/backup-db/
 wp-content/backup-db/
 wp-content/cache/
+license.txt
 
 
 # Fichiers de développement local à ignorer
